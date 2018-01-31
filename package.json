@@ -1,0 +1,7 @@
+{
+  "name": "languageserver-javascript-neovim",
+  "dependencies": {
+    "javascript-typescript-langserver": "^2.5.5"
+  },
+  "private": true
+}
